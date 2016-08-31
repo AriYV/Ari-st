@@ -29,3 +29,4 @@ Hi and welcome to the UBC Chapter of Code the Change's website project page. It 
 Grab an issue, fix it and submit a pull-request! We love you! No commit is too small. 
 
 
+# Ari-st
